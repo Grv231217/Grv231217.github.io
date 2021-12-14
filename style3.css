@@ -1,0 +1,32 @@
+.pic{
+    height:400px;
+    width: 320px;
+    border-radius:50%;
+    padding:20px;
+    margin: 20px;
+    border-style: dashed;
+    border-width:2px;
+    border-color: brown;
+}
+.pic:hover{
+    opacity:0.8;
+    background-color: crimson;
+}
+body{
+    font-family: 'Brush Script MT', cursive;
+    font-size: large;
+    background-color:darkorchid;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color: springgreen;
+}
+header,footer{
+    padding-left: 40%;
+}
+header:hover{
+    color:yellow;
+}

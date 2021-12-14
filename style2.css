@@ -1,0 +1,46 @@
+table, th, td {
+    border: 1px solid black;
+    width:40%;
+}
+body{
+    /* background-color: aquamarine; */
+    margin:20px;
+    background-image:url("academics.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:whitesmoke;
+}
+td,th{
+    border-color:yellow;
+    border-width:5px;
+}
+a{
+    text-decoration: none;
+    color:yellow;
+}
+a:hover{
+    color: lightgreen;
+}
+h1,h2{
+    color:yellow;
+}
+header{
+    padding-left:45%;
+}
+h1,h2{
+    font-family: 'Brush Script MT', cursive;
+    font-size:30px;
+}
+footer{
+    padding-left:45%;
+}
+#list{
+    display:inline-block;
+}
+#Achievements{
+    display: inline-block;
+}
+#experiences
+{
+    display: inline-block;
+}

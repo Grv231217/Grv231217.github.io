@@ -1,0 +1,46 @@
+footer{
+    background-color:darkslategray;
+    color: yellow;
+    text-decoration: none;
+    margin-bottom:-25px;
+    /* padding-left:35%; */
+    /* padding-bottom:50px; */
+}
+main{
+    margin-left: 30px;
+    /* background-color: burlywood; */
+}
+header h2{
+    margin-left: 45%;
+}
+.foot-1{
+    padding-left:45%;
+}
+.pics{
+    margin-left:35%;
+}
+.pic:hover{
+    opacity:0.5;
+}
+.pic{
+    padding-left: 30px;
+    padding-right:30px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+body{
+    font-family: 'Brush Script MT', cursive;
+    margin:0px;
+    background-color: violet;
+    font-size: large;
+    /* margin:10px; */
+}
+.link a{
+    margin-left: 45%;
+    color: yellow;
+    text-decoration: none;
+}
+.link a:hover{
+    color: red;
+}
